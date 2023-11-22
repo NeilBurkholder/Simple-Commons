@@ -1,4 +1,4 @@
-package com.simplemobiletools.commons.samples.screens
+package com.ncautomation.commons.samples.screens
 
 import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.foundation.layout.Arrangement
@@ -15,16 +15,16 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
-import com.simplemobiletools.commons.R
-import com.simplemobiletools.commons.compose.extensions.MyDevices
-import com.simplemobiletools.commons.compose.lists.SimpleScaffold
-import com.simplemobiletools.commons.compose.lists.simpleTopAppBarColors
-import com.simplemobiletools.commons.compose.lists.topAppBarInsets
-import com.simplemobiletools.commons.compose.lists.topAppBarPaddings
-import com.simplemobiletools.commons.compose.menus.ActionItem
-import com.simplemobiletools.commons.compose.menus.ActionMenu
-import com.simplemobiletools.commons.compose.menus.OverflowMode
-import com.simplemobiletools.commons.compose.theme.AppThemeSurface
+import com.ncautomation.commons.R
+import com.ncautomation.commons.compose.extensions.MyDevices
+import com.ncautomation.commons.compose.lists.SimpleScaffold
+import com.ncautomation.commons.compose.lists.simpleTopAppBarColors
+import com.ncautomation.commons.compose.lists.topAppBarInsets
+import com.ncautomation.commons.compose.lists.topAppBarPaddings
+import com.ncautomation.commons.compose.menus.ActionItem
+import com.ncautomation.commons.compose.menus.ActionMenu
+import com.ncautomation.commons.compose.menus.OverflowMode
+import com.ncautomation.commons.compose.theme.AppThemeSurface
 import kotlinx.collections.immutable.ImmutableList
 import kotlinx.collections.immutable.toImmutableList
 

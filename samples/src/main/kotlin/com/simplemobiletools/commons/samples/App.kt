@@ -1,4 +1,4 @@
-package com.simplemobiletools.commons.samples
+package com.ncautomation.commons.samples
 
 import android.app.Application
 import com.github.ajalt.reprint.core.Reprint

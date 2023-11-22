@@ -1,4 +1,4 @@
-package com.simplemobiletools.commons.samples.activities
+package com.ncautomation.commons.samples.activities
 
 import android.os.Bundle
 import android.os.Environment
@@ -15,17 +15,17 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.simplemobiletools.commons.R
-import com.simplemobiletools.commons.compose.alert_dialog.AlertDialogState
-import com.simplemobiletools.commons.compose.alert_dialog.rememberAlertDialogState
-import com.simplemobiletools.commons.compose.bottom_sheet.BottomSheetDialogState
-import com.simplemobiletools.commons.compose.bottom_sheet.rememberBottomSheetDialogState
-import com.simplemobiletools.commons.compose.extensions.config
-import com.simplemobiletools.commons.compose.extensions.rateStarsRedirectAndThankYou
-import com.simplemobiletools.commons.compose.theme.AppThemeSurface
-import com.simplemobiletools.commons.dialogs.*
-import com.simplemobiletools.commons.extensions.*
-import com.simplemobiletools.commons.models.*
+import com.ncautomation.commons.R
+import com.ncautomation.commons.compose.alert_dialog.AlertDialogState
+import com.ncautomation.commons.compose.alert_dialog.rememberAlertDialogState
+import com.ncautomation.commons.compose.bottom_sheet.BottomSheetDialogState
+import com.ncautomation.commons.compose.bottom_sheet.rememberBottomSheetDialogState
+import com.ncautomation.commons.compose.extensions.config
+import com.ncautomation.commons.compose.extensions.rateStarsRedirectAndThankYou
+import com.ncautomation.commons.compose.theme.AppThemeSurface
+import com.ncautomation.commons.dialogs.*
+import com.ncautomation.commons.extensions.*
+import com.ncautomation.commons.models.*
 import kotlinx.collections.immutable.toImmutableList
 
 class TestDialogActivity : ComponentActivity() {

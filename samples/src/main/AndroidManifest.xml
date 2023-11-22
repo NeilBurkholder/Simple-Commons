@@ -26,19 +26,19 @@
         </activity>
 
         <activity
-            android:name="com.simplemobiletools.commons.activities.AboutActivity"
+            android:name="com.ncautomation.commons.activities.AboutActivity"
             android:configChanges="orientation" />
 
         <activity
-            android:name="com.simplemobiletools.commons.activities.CustomizationActivity"
+            android:name="com.ncautomation.commons.activities.CustomizationActivity"
             android:configChanges="orientation|keyboardHidden|screenSize" />
 
         <activity
-            android:name="com.simplemobiletools.commons.activities.ManageBlockedNumbersActivity"
+            android:name="com.ncautomation.commons.activities.ManageBlockedNumbersActivity"
             android:label="@string/manage_blocked_numbers" />
 
         <activity
-            android:name="com.simplemobiletools.commons.samples.activities.TestDialogActivity"
+            android:name="com.ncautomation.commons.samples.activities.TestDialogActivity"
             android:enableOnBackInvokedCallback="true"
             android:exported="false" />
     </application>
